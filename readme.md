@@ -1,5 +1,5 @@
-This Dockerization work is contributed by **Simanta** to the original project by [](https://github.com/Dev-B-cypher)]([](https://github.com/Dev-B-cypher/Real-Time-PPE-Detection)).
-## 🐳 Docker Containerization & SMTP email integration(by simantash)
+
+## 🐳 Docker Containerization & SMTP email integration(by simantash) This Dockerization work is contributed by **Simanta** to the original project by [](https://github.com/Dev-B-cypher)]([](https://github.com/Dev-B-cypher/Real-Time-PPE-Detection)).
 
 This project is fully containerized using Docker. No need to install Python or dependencies manually.
 
