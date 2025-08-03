@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+.venv1/
+
+# IDE and cache
+.idea/
+__pycache__/
+
+# Output files
+output.jpg
+test.jpg
+
+# Other
+*.log
